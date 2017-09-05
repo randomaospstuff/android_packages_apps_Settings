@@ -158,4 +158,7 @@
     <string name="qs_media_player_title">Media player</string>
     <string name="qs_media_player_summary_on">Showing media player in QS\nRequires a SystemUI restart</string>
     <string name="qs_media_player_summary_off">Showing media player as a notification\nRequires a SystemUI restart</string>
+
+    <!-- In-call feedback -->
+    <string name="incall_feeedback_vibrate_title">Vibrate to indicate call status</string>
 </resources>
