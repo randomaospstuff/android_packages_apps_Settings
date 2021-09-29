@@ -28,4 +28,12 @@
         app:controller="com.android.settings.sound.MediaControlsPreferenceController"
         app:allowDividerAbove="true" />
 
+        <!-- QS media player -->
+    <com.statix.support.preferences.SystemSettingSwitchPreference
+        android:key="qs_media_player"
+        android:title="@string/qs_media_player_title"
+        android:summaryOn="@string/qs_media_player_summary_on"
+        android:summaryOff="@string/qs_media_player_summary_off"
+        android:defaultValue="true" />
+
 </PreferenceScreen>
